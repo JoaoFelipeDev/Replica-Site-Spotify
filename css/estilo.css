@@ -94,10 +94,13 @@ nav.navbar-transparente{
 #servicos h2, h3{
     color: #7c25f8;
 }
+#servicos p{
+    color: black;
+}
 #recursos  h3{
     color: #9bf0e1;
 }
-#recursos h2,p{
+#recursos h2, p{
     color: white;
 }
 /*Rodapé */
